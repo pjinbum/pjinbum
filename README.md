@@ -12,10 +12,18 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/pjinbum?style=social)
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<span><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=html5&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/JavaScript-Yellow?style=for-the-badge&logo=html5&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Jquery-green?style=for-the-badge&logo=html5&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/bootstrap-pink?style=for-the-badge&logo=html5&logoColor=white"></span>
+
+<img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=Sass&logoColor=CC6699"/>
 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=PJB%20Git&fontAlign=70&stroke=00FF00)
+
+
 
 
 
