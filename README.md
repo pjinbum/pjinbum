@@ -20,6 +20,7 @@
 <span><img src="https://img.shields.io/badge/nodeJs-f89901?style=for-the-badge&logo=Node.js&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=React&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/SQL-ffff09?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/VueJs-4fc08d?style=for-the-badge&logo=Vue.js&logoColor=white"></span>
 
 <!--
 <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=Sass&logoColor=CC6699"/>
