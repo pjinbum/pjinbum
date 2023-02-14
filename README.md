@@ -12,6 +12,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/pjinbum?style=social)
 
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
 
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=PJB%20Git&fontAlign=70&stroke=00FF00)
 
