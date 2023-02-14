@@ -25,7 +25,13 @@
 <img src="https://img.shields.io/badge/CSS-blue?style=flat&logo=Sass&logoColor=CC6699"/>
 <img src="https://img.shields.io/badge/{내용}-{배경 색깔}?style={스타일}&logo={로고이름}&logoColor={로고 색깔}"/>
 https://simpleicons.org/ 로고사이트
+https://github.com/anuraghazra/github-readme-stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
 
 
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Upgrade%20Together&fontAlign=50&stroke=00FF00)
