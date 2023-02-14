@@ -14,12 +14,12 @@
 <!-- 뱃지-->
 <span><img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/JavaScript-Yellow?style=for-the-badge&logo=JavaScript&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/JavaScript-ffff09?style=for-the-badge&logo=JavaScript&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Jquery-green?style=for-the-badge&logo=jQuery&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/bootstrap-pink?style=for-the-badge&logo=Bootstrap&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/nodeJs-f89901?style=for-the-badge&logo=Node.js&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=React&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/SQL-ffff09?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/SQL-Yellow?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/VueJs-4fc08d?style=for-the-badge&logo=Vue.js&logoColor=white"></span>
 
 <!--
