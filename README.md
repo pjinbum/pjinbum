@@ -26,11 +26,11 @@
 <span><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></span>
 
 
-<a><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /></div></a>
+<button><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /></div></button>
 
-<a><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div></a>
+<button><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div></button>
 
-<a><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /></div></a>
+<button><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /></div></button>
 
 
 <!--
