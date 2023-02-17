@@ -26,14 +26,17 @@
 <span><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></span>
 
 
+<span><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /></div></span>
 
-<button><div style="display: flex;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div>
-</button>
+<span><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div></span>
+
+<span><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /></div></span>
 
 
-<button><div style="display: flex;"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 50px;" /></div><div style="display: flex;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" style="width: 65px; height: 65px; margin-right: 0px; margin-bottom: 0px;" /></div></button>
+<span></span>
 
 
+<span></span>
 
 
 <!--
