@@ -47,16 +47,16 @@ https://github.com/anuraghazra/github-readme-stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
 
 
+<span><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="300" height="300" /></span>
+<span><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="300" height="300" /></span>
+<span><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="300" height="300" /></span>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjinbum&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
-<span><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="200" height="200" /></span>
 
-<span><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="200" height="200" /></span>
-
-<span><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="200" height="200" /></span>
 
 
 
