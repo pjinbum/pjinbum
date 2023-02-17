@@ -48,7 +48,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 
 <span><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="250" height="250" /></span>
-<span><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="400" height="400" /></span>
+<span><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="300" height="300" /></span>
 <span><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="250" height="250" /></span>
 
 <!--
