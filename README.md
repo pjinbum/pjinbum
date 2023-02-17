@@ -36,7 +36,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- [![soyeon207's github activity graph](https://activity-graph.herokuapp.com/graph?username=pjinbum&theme=monokai)](https://github.com/pjinbum/github-readme-activity-graph)
+ [![pjinbum's github activity graph](https://activity-graph.herokuapp.com/graph?username=pjinbum&theme=monokai)](https://github.com/pjinbum/github-readme-activity-graph)
 
 
 
