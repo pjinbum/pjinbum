@@ -38,6 +38,8 @@ https://simpleicons.org/ 로고사이트
 https://github.com/anuraghazra/github-readme-stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브이름&show_icons=true&theme=dark)
 -->
 
 
@@ -45,6 +47,8 @@ https://github.com/anuraghazra/github-readme-stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjinbum&show_icons=true&theme=테마)
 
 <span><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="200" height="200" /></span>
 
