@@ -43,8 +43,6 @@ https://github.com/anuraghazra/github-readme-stats
 -->
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
 
 
 <span><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="250" height="250" /></span>
@@ -58,6 +56,9 @@ https://github.com/anuraghazra/github-readme-stats
 -->
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
 
 
 
