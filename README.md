@@ -26,15 +26,8 @@
 <span><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></span>
 
 
-<a><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="100" height="100" /></div></a>
-
-<a><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="100" height="100" /></div></a>
-
-<a><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="100" height="100" /></div></a>
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -47,11 +40,25 @@ https://github.com/anuraghazra/github-readme-stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/깃허브아이디/github-readme-stats)
 -->
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<span><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="200" height="200" /></span>
+
+<span><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="200" height="200" /></span>
+
+<span><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="200" height="200" /></span>
+
+
 
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Upgrade%20Together&fontAlign=50&stroke=00FF00)
+
+
+
+
 
 
 
