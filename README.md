@@ -60,13 +60,13 @@ https://github.com/anuraghazra/github-readme-stats
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjinbum&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
 
 -->
 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
