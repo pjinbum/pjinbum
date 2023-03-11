@@ -24,7 +24,7 @@
 <span><img src="https://img.shields.io/badge/VueJs-4fc08d?style=for-the-badge&logo=Vue.js&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/TypeScript-00aff0?style=for-the-badge&logo=TypeScript&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=GitHub&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/jsx-#20B2AA?style=for-the-badge&logo=Jsx&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/jsx-#87CEFA?style=for-the-badge&logo=Jsx&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Python-ffff09?style=for-the-badge&logo=Python&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/firebase-E34F26?style=for-the-badge&logo=firebase&logoColor=white"></span>
 
