@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?text=PJB!&fontSize=20&rotate=-30)
 
 
-<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODExMDFfMzMg%2FMDAxNTQxMDQ5OTE4MDk0.28v5qxmvt53dUK8LK4YxxRqRGwiXZNQX-epxH7uDIskg.BkTWxjFYeJbKDk7zM56NtFvvU0WjTe9XrBtrSNpxYx8g.JPEG.dvd671%2Fmirage_%25A8%25CF%25BD%25B4%25B0%25A1%25B7%25CE%25C1%25EE.jpg&type=sc960_832" width="850" height="300">
+
 
 <img src="https://mblogthumb-phinf.pstatic.net/MjAxODA1MjlfMjY2/MDAxNTI3NTcwODY5NTg0.nUlWxNLL-m_r2mlN1tU_zln9t2jZ9Ew_m8nig2IbLz4g.dC59AT5ygy3BPL47za7CeD_Af8WCnCRAroAYsnAo6h4g.GIF.rlfjrl24/%EB%B2%9A%EA%BD%83_%286%29.gif?type=w800" width="850" height="300">
 
@@ -67,7 +67,7 @@ https://github.com/anuraghazra/github-readme-stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
 
 
-
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODExMDFfMzMg%2FMDAxNTQxMDQ5OTE4MDk0.28v5qxmvt53dUK8LK4YxxRqRGwiXZNQX-epxH7uDIskg.BkTWxjFYeJbKDk7zM56NtFvvU0WjTe9XrBtrSNpxYx8g.JPEG.dvd671%2Fmirage_%25A8%25CF%25BD%25B4%25B0%25A1%25B7%25CE%25C1%25EE.jpg&type=sc960_832" width="850" height="300">
 
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&text=Upgrade%20Together&fontAlign=50&stroke=00FF00)
 
