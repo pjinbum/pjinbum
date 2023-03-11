@@ -67,7 +67,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum&height=200&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum&height=300&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAxODExMDFfMzMg%2FMDAxNTQxMDQ5OTE4MDk0.28v5qxmvt53dUK8LK4YxxRqRGwiXZNQX-epxH7uDIskg.BkTWxjFYeJbKDk7zM56NtFvvU0WjTe9XrBtrSNpxYx8g.JPEG.dvd671%2Fmirage_%25A8%25CF%25BD%25B4%25B0%25A1%25B7%25CE%25C1%25EE.jpg&type=sc960_832" width="850" height="300">
