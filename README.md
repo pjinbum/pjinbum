@@ -1,7 +1,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?text=PJB!&fontSize=20&rotate=-30) -->
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=PJB!&height=20&&stroke=61dafb&fontAlign=90&fontSize=20&rotate=0)
+![header](https://capsule-render.vercel.app/api?type=waving&text=PJB!&height=100&&stroke=61dafb&fontAlign=90&fontSize=20&rotate=0)
 
 
 
