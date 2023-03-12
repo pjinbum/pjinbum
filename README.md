@@ -31,7 +31,7 @@
 <span><img src="https://img.shields.io/badge/jsx-6833cb?style=for-the-badge&logo=Neutralinojs&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/Python-ffff09?style=for-the-badge&logo=Python&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/firebase-fa2101?style=for-the-badge&logo=firebase&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/JSON-#F9A03C?style=for-the-badge&logo=JSON&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/JSON-yellow?style=for-the-badge&logo=JSON&logoColor=white"></span>
 
 
 
