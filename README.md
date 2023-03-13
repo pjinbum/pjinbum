@@ -33,7 +33,7 @@
 <span><img src="https://img.shields.io/badge/firebase-fa2101?style=for-the-badge&logo=firebase&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/JSON-yellow?style=for-the-badge&logo=JSON&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/PlayStation-FE5196?style=for-the-badge&logo=PlayStation&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/ajax-green?style=for-the-badge&logo=ajax&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/ajax-blue?style=for-the-badge&logo=Ajax&logoColor=white"></span>
 
 
 
