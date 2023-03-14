@@ -24,7 +24,7 @@
 <span><img src="https://img.shields.io/badge/nodeJs-f89901?style=for-the-badge&logo=Node.js&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/react-61dafb?style=for-the-badge&logo=React&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/SQL-Yellow?style=for-the-badge&logo=Microsoft SQL Server&logoColor=white"></span>
-<span><img src="https://img.shields.io/badge/git-aqua?style=for-the-badge&logo=git&logoColor=white"></span>
+
 <br>
 <span><img src="https://img.shields.io/badge/VueJs-4fc08d?style=for-the-badge&logo=Vue.js&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/TypeScript-00aff0?style=for-the-badge&logo=TypeScript&logoColor=white"></span>
@@ -34,7 +34,10 @@
 <span><img src="https://img.shields.io/badge/firebase-fa2101?style=for-the-badge&logo=firebase&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/JSON-yellow?style=for-the-badge&logo=JSON&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/PlayStation-FE5196?style=for-the-badge&logo=PlayStation&logoColor=white"></span>
+<br>
+
 <span><img src="https://img.shields.io/badge/ajax-blue?style=for-the-badge&logo=Neutralinojs&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/git-aqua?style=for-the-badge&logo=git&logoColor=white"></span>
 
 
 
