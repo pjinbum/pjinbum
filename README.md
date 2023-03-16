@@ -71,7 +71,7 @@ https://github.com/anuraghazra/github-readme-stats
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjinbum&card_height=500)](https://github.com/pjinbum/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjinbum)](https://github.com/pjinbum/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum&layout=compact&card_height=500)](https://github.com/anuraghazra/github-readme-stats)
 
 
