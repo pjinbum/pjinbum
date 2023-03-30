@@ -62,6 +62,7 @@ https://github.com/anuraghazra/github-readme-stats
 <span><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="250" height="250" /></span>
 <span><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="300" height="300" /></span>
 <span><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="250" height="250" /></span>
+[! [조회수] (https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjinbum&count_bg=%23C43DC8&title_bg=%231CCBAA&icon=&icon_color=%2326D2D3&title=Space&edge_flat=false)] (https://hits.seeyoufarm.com)
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjinbum&show_icons=true&theme=dark)
