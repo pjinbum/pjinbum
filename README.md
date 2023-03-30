@@ -67,6 +67,8 @@ https://github.com/anuraghazra/github-readme-stats
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjinbum&count_bg=%23C43DC8&title_bg=%231CCBAA&icon=&icon_color=%2326D2D3&title=Space&edge_flat=false"/></a>
 
+https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpjinbum&count_bg=%23C43DC8&title_bg=%231CCBAA&icon=&icon_color=%2326D2D3&title=Space&edge_flat=false
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pjinbum&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pjinbum&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
