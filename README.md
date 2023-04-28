@@ -3,7 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=PJB!&height=150&&stroke=61dafb&fontAlign=90&fontSize=20&rotate=0)
 
-<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEwMDFfNTQg%2FMDAxNjAxNDg5NTkzMjAw.zButs0g_x43uXHJybvtnafhWJjlxLfrhmSoRnhvlOW4g.37H8oNBxQvNQPHmRWv2m5HvcNedOetIlJKV0clzK2uog.GIF.legojun20%2F98D55D39-D017-43D2-83FB-68623A7493D6.gif" style="width: 800px; height: 300px;">
+<img src="https://search.pstatic.net/common/?src=http%3A%2F%2Fblogfiles.naver.net%2FMjAyMDEwMDFfNTQg%2FMDAxNjAxNDg5NTkzMjAw.zButs0g_x43uXHJybvtnafhWJjlxLfrhmSoRnhvlOW4g.37H8oNBxQvNQPHmRWv2m5HvcNedOetIlJKV0clzK2uog.GIF.legojun20%2F98D55D39-D017-43D2-83FB-68623A7493D6.gif" style="width: 900px; height: 300px;">
 
 
 
