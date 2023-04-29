@@ -32,6 +32,7 @@
 <span><img src="https://img.shields.io/badge/ajax-blue?style=for-the-badge&logo=Neutralinojs&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/git-aqua?style=for-the-badge&logo=git&logoColor=white"></span>
 <span><img src="https://img.shields.io/badge/sass-f89901?style=for-the-badge&logo=Sass&logoColor=white"></span>
+<span><img src="https://img.shields.io/badge/Flutter-181717?style=for-the-badge&logo=flutter&logoColor=white"></span>
 
 
 
